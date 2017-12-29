@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.servlet-5.1.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Android_Project/Viewer/Lib/libs/javax.servlet-5.1.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,320 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* android-support-v4.jar
+* cardview\
+* cardview\AndroidManifest.xml
+* cardview\libs\
+* cardview\libs\android-support-v7-cardview.jar
+* cardview\res\
+* cardview\res\values\
+* cardview\res\values\attrs.xml
+* cardview\res\values\colors.xml
+* cardview\res\values\dimens.xml
+* cardview\res\values\styles.xml
+* cardview\src\
+* cardview\src\.readme
+* gridlayout\
+* gridlayout\.classpath
+* gridlayout\.project
+* gridlayout\AndroidManifest.xml
+* gridlayout\README.txt
+* gridlayout\libs\
+* gridlayout\libs\android-support-v7-gridlayout.jar
+* gridlayout\project.properties
+* gridlayout\res\
+* gridlayout\res\values\
+* gridlayout\res\values\attrs.xml
+* gridlayout\res\values\dimens.xml
+* gridlayout\src\
+* gridlayout\src\.readme
+* ic_launcher-web.png
+* javax.servlet-5.1.12.jar
+* jsoup-1.9.2-javadoc.jar
+* jsoup-1.9.2.jar
+* mediarouter\
+* mediarouter\.classpath
+* mediarouter\.project
+* mediarouter\AndroidManifest.xml
+* mediarouter\README.txt
+* mediarouter\libs\
+* mediarouter\libs\android-support-v7-mediarouter.jar
+* mediarouter\project.properties
+* mediarouter\res\
+* mediarouter\res\drawable-hdpi\
+* mediarouter\res\drawable-hdpi\mr_ic_audio_vol.png
+* mediarouter\res\drawable-hdpi\mr_ic_media_route_disabled_holo_dark.png
+* mediarouter\res\drawable-hdpi\mr_ic_media_route_disabled_holo_light.png
+* mediarouter\res\drawable-hdpi\mr_ic_media_route_off_holo_dark.png
+* mediarouter\res\drawable-hdpi\mr_ic_media_route_off_holo_light.png
+* mediarouter\res\drawable-hdpi\mr_ic_media_route_on_0_holo_dark.png
+* mediarouter\res\drawable-hdpi\mr_ic_media_route_on_0_holo_light.png
+* mediarouter\res\drawable-hdpi\mr_ic_media_route_on_1_holo_dark.png
+* mediarouter\res\drawable-hdpi\mr_ic_media_route_on_1_holo_light.png
+* mediarouter\res\drawable-hdpi\mr_ic_media_route_on_2_holo_dark.png
+* mediarouter\res\drawable-hdpi\mr_ic_media_route_on_2_holo_light.png
+* mediarouter\res\drawable-hdpi\mr_ic_media_route_on_holo_dark.png
+* mediarouter\res\drawable-hdpi\mr_ic_media_route_on_holo_light.png
+* mediarouter\res\drawable-mdpi\
+* mediarouter\res\drawable-mdpi\mr_ic_audio_vol.png
+* mediarouter\res\drawable-mdpi\mr_ic_media_route_disabled_holo_dark.png
+* mediarouter\res\drawable-mdpi\mr_ic_media_route_disabled_holo_light.png
+* mediarouter\res\drawable-mdpi\mr_ic_media_route_off_holo_dark.png
+* mediarouter\res\drawable-mdpi\mr_ic_media_route_off_holo_light.png
+* mediarouter\res\drawable-mdpi\mr_ic_media_route_on_0_holo_dark.png
+* mediarouter\res\drawable-mdpi\mr_ic_media_route_on_0_holo_light.png
+* mediarouter\res\drawable-mdpi\mr_ic_media_route_on_1_holo_dark.png
+* mediarouter\res\drawable-mdpi\mr_ic_media_route_on_1_holo_light.png
+* mediarouter\res\drawable-mdpi\mr_ic_media_route_on_2_holo_dark.png
+* mediarouter\res\drawable-mdpi\mr_ic_media_route_on_2_holo_light.png
+* mediarouter\res\drawable-mdpi\mr_ic_media_route_on_holo_dark.png
+* mediarouter\res\drawable-mdpi\mr_ic_media_route_on_holo_light.png
+* mediarouter\res\drawable-xhdpi\
+* mediarouter\res\drawable-xhdpi\mr_ic_audio_vol.png
+* mediarouter\res\drawable-xhdpi\mr_ic_media_route_disabled_holo_dark.png
+* mediarouter\res\drawable-xhdpi\mr_ic_media_route_disabled_holo_light.png
+* mediarouter\res\drawable-xhdpi\mr_ic_media_route_off_holo_dark.png
+* mediarouter\res\drawable-xhdpi\mr_ic_media_route_off_holo_light.png
+* mediarouter\res\drawable-xhdpi\mr_ic_media_route_on_0_holo_dark.png
+* mediarouter\res\drawable-xhdpi\mr_ic_media_route_on_0_holo_light.png
+* mediarouter\res\drawable-xhdpi\mr_ic_media_route_on_1_holo_dark.png
+* mediarouter\res\drawable-xhdpi\mr_ic_media_route_on_1_holo_light.png
+* mediarouter\res\drawable-xhdpi\mr_ic_media_route_on_2_holo_dark.png
+* mediarouter\res\drawable-xhdpi\mr_ic_media_route_on_2_holo_light.png
+* mediarouter\res\drawable-xhdpi\mr_ic_media_route_on_holo_dark.png
+* mediarouter\res\drawable-xhdpi\mr_ic_media_route_on_holo_light.png
+* mediarouter\res\drawable-xxhdpi\
+* mediarouter\res\drawable-xxhdpi\mr_ic_audio_vol.png
+* mediarouter\res\drawable-xxhdpi\mr_ic_media_route_disabled_holo_dark.png
+* mediarouter\res\drawable-xxhdpi\mr_ic_media_route_disabled_holo_light.png
+* mediarouter\res\drawable-xxhdpi\mr_ic_media_route_off_holo_dark.png
+* mediarouter\res\drawable-xxhdpi\mr_ic_media_route_off_holo_light.png
+* mediarouter\res\drawable-xxhdpi\mr_ic_media_route_on_0_holo_dark.png
+* mediarouter\res\drawable-xxhdpi\mr_ic_media_route_on_0_holo_light.png
+* mediarouter\res\drawable-xxhdpi\mr_ic_media_route_on_1_holo_dark.png
+* mediarouter\res\drawable-xxhdpi\mr_ic_media_route_on_1_holo_light.png
+* mediarouter\res\drawable-xxhdpi\mr_ic_media_route_on_2_holo_dark.png
+* mediarouter\res\drawable-xxhdpi\mr_ic_media_route_on_2_holo_light.png
+* mediarouter\res\drawable-xxhdpi\mr_ic_media_route_on_holo_dark.png
+* mediarouter\res\drawable-xxhdpi\mr_ic_media_route_on_holo_light.png
+* mediarouter\res\drawable\
+* mediarouter\res\drawable\mr_ic_media_route_connecting_holo_dark.xml
+* mediarouter\res\drawable\mr_ic_media_route_connecting_holo_light.xml
+* mediarouter\res\drawable\mr_ic_media_route_holo_dark.xml
+* mediarouter\res\drawable\mr_ic_media_route_holo_light.xml
+* mediarouter\res\layout-v11\
+* mediarouter\res\layout-v11\mr_media_route_controller_dialog.xml
+* mediarouter\res\layout-v17\
+* mediarouter\res\layout-v17\mr_media_route_list_item.xml
+* mediarouter\res\layout\
+* mediarouter\res\layout\mr_media_route_chooser_dialog.xml
+* mediarouter\res\layout\mr_media_route_controller_dialog.xml
+* mediarouter\res\layout\mr_media_route_list_item.xml
+* mediarouter\res\values-af\
+* mediarouter\res\values-af\strings.xml
+* mediarouter\res\values-am\
+* mediarouter\res\values-am\strings.xml
+* mediarouter\res\values-ar\
+* mediarouter\res\values-ar\strings.xml
+* mediarouter\res\values-bg\
+* mediarouter\res\values-bg\strings.xml
+* mediarouter\res\values-bn-rBD\
+* mediarouter\res\values-bn-rBD\strings.xml
+* mediarouter\res\values-ca\
+* mediarouter\res\values-ca\strings.xml
+* mediarouter\res\values-cs\
+* mediarouter\res\values-cs\strings.xml
+* mediarouter\res\values-da\
+* mediarouter\res\values-da\strings.xml
+* mediarouter\res\values-de\
+* mediarouter\res\values-de\strings.xml
+* mediarouter\res\values-el\
+* mediarouter\res\values-el\strings.xml
+* mediarouter\res\values-en-rGB\
+* mediarouter\res\values-en-rGB\strings.xml
+* mediarouter\res\values-en-rIN\
+* mediarouter\res\values-en-rIN\strings.xml
+* mediarouter\res\values-es-rUS\
+* mediarouter\res\values-es-rUS\strings.xml
+* mediarouter\res\values-es\
+* mediarouter\res\values-es\strings.xml
+* mediarouter\res\values-et-rEE\
+* mediarouter\res\values-et-rEE\strings.xml
+* mediarouter\res\values-eu-rES\
+* mediarouter\res\values-eu-rES\strings.xml
+* mediarouter\res\values-fa\
+* mediarouter\res\values-fa\strings.xml
+* mediarouter\res\values-fi\
+* mediarouter\res\values-fi\strings.xml
+* mediarouter\res\values-fr-rCA\
+* mediarouter\res\values-fr-rCA\strings.xml
+* mediarouter\res\values-fr\
+* mediarouter\res\values-fr\strings.xml
+* mediarouter\res\values-gl-rES\
+* mediarouter\res\values-gl-rES\strings.xml
+* mediarouter\res\values-hi\
+* mediarouter\res\values-hi\strings.xml
+* mediarouter\res\values-hr\
+* mediarouter\res\values-hr\strings.xml
+* mediarouter\res\values-hu\
+* mediarouter\res\values-hu\strings.xml
+* mediarouter\res\values-hy-rAM\
+* mediarouter\res\values-hy-rAM\strings.xml
+* mediarouter\res\values-in\
+* mediarouter\res\values-in\strings.xml
+* mediarouter\res\values-is-rIS\
+* mediarouter\res\values-is-rIS\strings.xml
+* mediarouter\res\values-it\
+* mediarouter\res\values-it\strings.xml
+* mediarouter\res\values-iw\
+* mediarouter\res\values-iw\strings.xml
+* mediarouter\res\values-ja\
+* mediarouter\res\values-ja\strings.xml
+* mediarouter\res\values-ka-rGE\
+* mediarouter\res\values-ka-rGE\strings.xml
+* mediarouter\res\values-kk-rKZ\
+* mediarouter\res\values-kk-rKZ\strings.xml
+* mediarouter\res\values-km-rKH\
+* mediarouter\res\values-km-rKH\strings.xml
+* mediarouter\res\values-kn-rIN\
+* mediarouter\res\values-kn-rIN\strings.xml
+* mediarouter\res\values-ko\
+* mediarouter\res\values-ko\strings.xml
+* mediarouter\res\values-ky-rKG\
+* mediarouter\res\values-ky-rKG\strings.xml
+* mediarouter\res\values-lo-rLA\
+* mediarouter\res\values-lo-rLA\strings.xml
+* mediarouter\res\values-lt\
+* mediarouter\res\values-lt\strings.xml
+* mediarouter\res\values-lv\
+* mediarouter\res\values-lv\strings.xml
+* mediarouter\res\values-mk-rMK\
+* mediarouter\res\values-mk-rMK\strings.xml
+* mediarouter\res\values-ml-rIN\
+* mediarouter\res\values-ml-rIN\strings.xml
+* mediarouter\res\values-mn-rMN\
+* mediarouter\res\values-mn-rMN\strings.xml
+* mediarouter\res\values-mr-rIN\
+* mediarouter\res\values-mr-rIN\strings.xml
+* mediarouter\res\values-ms-rMY\
+* mediarouter\res\values-ms-rMY\strings.xml
+* mediarouter\res\values-my-rMM\
+* mediarouter\res\values-my-rMM\strings.xml
+* mediarouter\res\values-nb\
+* mediarouter\res\values-nb\strings.xml
+* mediarouter\res\values-ne-rNP\
+* mediarouter\res\values-ne-rNP\strings.xml
+* mediarouter\res\values-nl\
+* mediarouter\res\values-nl\strings.xml
+* mediarouter\res\values-pl\
+* mediarouter\res\values-pl\strings.xml
+* mediarouter\res\values-pt-rPT\
+* mediarouter\res\values-pt-rPT\strings.xml
+* mediarouter\res\values-pt\
+* mediarouter\res\values-pt\strings.xml
+* mediarouter\res\values-ro\
+* mediarouter\res\values-ro\strings.xml
+* mediarouter\res\values-ru\
+* mediarouter\res\values-ru\strings.xml
+* mediarouter\res\values-si-rLK\
+* mediarouter\res\values-si-rLK\strings.xml
+* mediarouter\res\values-sk\
+* mediarouter\res\values-sk\strings.xml
+* mediarouter\res\values-sl\
+* mediarouter\res\values-sl\strings.xml
+* mediarouter\res\values-sr\
+* mediarouter\res\values-sr\strings.xml
+* mediarouter\res\values-sv\
+* mediarouter\res\values-sv\strings.xml
+* mediarouter\res\values-sw\
+* mediarouter\res\values-sw\strings.xml
+* mediarouter\res\values-ta-rIN\
+* mediarouter\res\values-ta-rIN\strings.xml
+* mediarouter\res\values-te-rIN\
+* mediarouter\res\values-te-rIN\strings.xml
+* mediarouter\res\values-th\
+* mediarouter\res\values-th\strings.xml
+* mediarouter\res\values-tl\
+* mediarouter\res\values-tl\strings.xml
+* mediarouter\res\values-tr\
+* mediarouter\res\values-tr\strings.xml
+* mediarouter\res\values-uk\
+* mediarouter\res\values-uk\strings.xml
+* mediarouter\res\values-ur-rPK\
+* mediarouter\res\values-ur-rPK\strings.xml
+* mediarouter\res\values-uz-rUZ\
+* mediarouter\res\values-uz-rUZ\strings.xml
+* mediarouter\res\values-vi\
+* mediarouter\res\values-vi\strings.xml
+* mediarouter\res\values-zh-rCN\
+* mediarouter\res\values-zh-rCN\strings.xml
+* mediarouter\res\values-zh-rHK\
+* mediarouter\res\values-zh-rHK\strings.xml
+* mediarouter\res\values-zh-rTW\
+* mediarouter\res\values-zh-rTW\strings.xml
+* mediarouter\res\values-zu\
+* mediarouter\res\values-zu\strings.xml
+* mediarouter\res\values\
+* mediarouter\res\values\attrs.xml
+* mediarouter\res\values\strings.xml
+* mediarouter\res\values\styles.xml
+* mediarouter\res\values\themes.xml
+* mediarouter\src\
+* mediarouter\src\.readme
+* palette\
+* palette\.classpath
+* palette\.project
+* palette\AndroidManifest.xml
+* palette\README.txt
+* palette\libs\
+* palette\libs\android-support-v7-palette.jar
+* palette\project.properties
+* proguard-project.txt
+* recyclerview\
+* recyclerview\AndroidManifest.xml
+* recyclerview\README.txt
+* recyclerview\libs\
+* recyclerview\libs\android-support-v7-recyclerview.jar
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:23.+
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

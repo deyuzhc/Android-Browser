@@ -1,0 +1,518 @@
+[
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newtab_6.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\newtab_6.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\jokes.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\jokes.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\more.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\more.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\selector_query.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\selector_query.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\selector_forward.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\selector_forward.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_holo_light.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\snewtab.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\snewtab.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\scancel.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\scancel.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\selector_newtab.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\selector_newtab.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_solid_dark_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newtab_5.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\newtab_5.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\snewtab_1.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\snewtab_1.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\saddtab.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\saddtab.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\selector_more.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\selector_more.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newtab_8.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\newtab_8.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\searchbar.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\searchbar.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\back.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newtab_9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\newtab_9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\snewtab_12.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\snewtab_12.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\snewtab_2.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\snewtab_2.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\selector_bottom.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\selector_bottom.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newtab_12.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\newtab_12.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\squery.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\squery.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sjokes.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\sjokes.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_transparent_dark_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_holo_dark.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newtab_3.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\newtab_3.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bing.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\bing.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\snewtab_8.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\snewtab_8.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\item.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\item.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\srefresh.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\srefresh.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mark.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\mark.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_selected_pressed_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_selected_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_normal.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\snewtab_5.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\snewtab_5.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\smark.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\smark.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cancel.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\cancel.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\query.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\query.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\refresh.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\selector_joke.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\selector_joke.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\snewtab_10.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\snewtab_10.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newtab_10.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\newtab_10.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_holo_light.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newtab_2.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\newtab_2.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\snewtab_11.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\snewtab_11.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\snewtab_7.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\snewtab_7.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newtab_11.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\newtab_11.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_solid_light_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\snewtab_4.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\snewtab_4.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\selector_mark.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\selector_mark.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sitem.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\sitem.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_selected_focused_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\forward.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\forward.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\selector_item.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\selector_item.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\selector_refresh.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\selector_refresh.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\selector_cancel.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\selector_cancel.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\addtab.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\addtab.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newtab.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\newtab.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_holo_dark.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sforward.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\sforward.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\snewtab_9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\snewtab_9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newtab_7.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\newtab_7.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newtab_1.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\newtab_1.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\snewtab_3.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\snewtab_3.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\history.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\history.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newtab_4.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\newtab_4.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\snewtab_6.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\snewtab_6.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\smore.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\drawable-mdpi\\smore.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_holo_light.9.png",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_default_holo_light.9.png"
+    }
+]

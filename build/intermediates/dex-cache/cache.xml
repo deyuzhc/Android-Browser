@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\FilePath\Android_Project\Viewer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="D:\FilePath\Android_Project\Viewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-20.0.0_6b146f69ab131f829206a3b992c6a667fbe02ab5\classes.dex" />
+    </item>
+    <item
+        jar="D:\FilePath\Android_Project\Viewer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="f21e1624a3852bf192ab86f63f6ebd7c474f9a1f">
+        <dex dex="D:\FilePath\Android_Project\Viewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cd9d3978d5f00de9ebbbb237513abda33229213a\classes.dex" />
+    </item>
+    <item
+        jar="D:\FilePath\Android_Sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\FilePath\Android_Project\Viewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_7447abc59d2105ac000e8f5d25e93762b689f970\classes.dex" />
+    </item>
+    <item
+        jar="D:\FilePath\Android_Project\Viewer\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\FilePath\Android_Project\Viewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_21b46d36d039e533b4a324bcc9103dce6614b78c\classes.dex" />
+    </item>
+    <item
+        jar="D:\FilePath\Android_Project\Viewer\Lib\libs\jsoup-1.9.2.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="edb0ddf3bd59dec0947f6eda75b6cf2264fc5e4b">
+        <dex dex="D:\FilePath\Android_Project\Viewer\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.9.2_3ea4196ff217efb6cf3ccf44f9ea7dac1c8ee666\classes.dex" />
+    </item>
+    <item
+        jar="D:\FilePath\Android_Project\Viewer\Lib\libs\javax.servlet-5.1.12.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="7ebdc6533bd0207ed3ea7adf92304ca1ba8713f1">
+        <dex dex="D:\FilePath\Android_Project\Viewer\app\build\intermediates\transforms\dex\debug\folders\1000\2\javax.servlet-5.1.12_7c4a630f62f4a560eb3b3a1984fe30c60ce0c4e4\classes.dex" />
+    </item>
+    <item
+        jar="D:\FilePath\Android_Project\Viewer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="85c2958ea3941fd2ff53e7716877d53a6b4ef132">
+        <dex dex="D:\FilePath\Android_Project\Viewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_22fab5647355f2b93ebaa7c902111fdfe85c9737\classes.dex" />
+    </item>
+    <item
+        jar="D:\FilePath\Android_Project\Viewer\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\FilePath\Android_Project\Viewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_106d7944ae90ab3652c34b56907fa1d7ad2d4637\classes.dex" />
+    </item>
+
+</items>

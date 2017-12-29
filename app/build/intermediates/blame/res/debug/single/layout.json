@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bar_mark.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\layout\\bar_mark.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\layout\\activity_tab.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bar_mask.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\layout\\bar_mask.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bar_add.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\layout\\bar_add.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bar_menu.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\layout\\bar_menu.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\layout\\activity_set.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jokes.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\layout\\activity_jokes.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mark.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\layout\\activity_mark.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    }
+]

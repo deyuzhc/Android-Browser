@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\animator\\marked_enter.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\animator\\marked_enter.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\animator\\marked_exit.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\animator\\marked_exit.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\animator\\history_enter.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\animator\\history_enter.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\animator\\set_exit.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\animator\\set_exit.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\animator\\set_enter.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\animator\\set_enter.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\animator\\anim_down.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\animator\\anim_down.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\animator\\history_exit.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\animator\\history_exit.xml"
+    },
+    {
+        "merged": "D:\\FilePath\\Android_Projects\\Viewer\\app\\build\\intermediates\\res\\merged\\debug\\animator\\anim_up.xml",
+        "source": "D:\\FilePath\\Android_Projects\\Viewer\\app\\src\\main\\res\\animator\\anim_up.xml"
+    }
+]

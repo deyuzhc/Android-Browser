@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/dimgray">
+
+    <item>
+        <selector>
+            <item
+                android:drawable="@drawable/more"
+                android:state_enabled="true" />
+        </selector>
+
+    </item>
+
+    <item>
+        <selector>
+            <item
+                android:drawable="@drawable/smore"
+                android:state_pressed="true" />
+        </selector>
+    </item>
+
+
+</ripple>

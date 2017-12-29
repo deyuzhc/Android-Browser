@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">必应</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_search">网址</string>
+    <string name="bing_search">搜索或输入网址</string>
+    <string name="markname">书签名</string>
+    <string name="markaddr">链接地址</string>
+    <string name="mark">书签</string>
+    <string name="history">最近打开的标签页</string>
+    <string name="next">下一个</string>
+    <string name="set_newtab">打开新的标签页</string>
+    <string name="set_snewtab">打开新的隐身标签页</string>
+    <string name="set_mark">书签</string>
+    <string name="set_history">历史记录</string>
+    <string name="set_tab">请求切换到桌面版网站</string>
+    <string name="set_set">设置</string>
+    <string name="set_feedback">帮助与反馈</string>
+    <string name="edit_newtab">在新标签页中打开</string>
+    <string name="edit_snewtab">在隐身标签页中打开</string>
+    <string name="edit_edit">修改书签</string>
+    <string name="edit_delete">删除书签</string>
+
+</resources>

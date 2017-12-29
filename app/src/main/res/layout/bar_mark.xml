@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/snow" >
+
+    <Button
+        android:id="@+id/mark_logo"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="15dp"
+        android:background="@drawable/mark" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/mark_logo"
+        android:text="@string/mark" />
+
+    <Button
+        android:id="@+id/mark_cancel"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="3dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/selector_cancel" />
+
+    <Button
+        android:id="@+id/mark_query"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="3dp"
+        android:layout_toLeftOf="@id/mark_cancel"
+        android:background="@drawable/selector_query" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:layout_below="@id/mark_logo"
+        android:background="@android:drawable/dialog_holo_light_frame" />
+
+</RelativeLayout>

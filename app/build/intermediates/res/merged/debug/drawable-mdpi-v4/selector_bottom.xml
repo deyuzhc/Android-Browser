@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/dimgray">
+    <item>
+        <selector>
+
+            <item
+                android:drawable="@color/whitesmoke"
+                android:state_enabled="true"></item>
+
+        </selector>
+    </item>
+</ripple>

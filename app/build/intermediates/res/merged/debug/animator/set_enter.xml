@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ordering="together" >
+
+    <!-- 定义位置 -->
+    <set android:ordering="together" >
+        <objectAnimator
+            android:duration="400"
+            android:propertyName="pivotX"
+            android:valueFrom="1000"
+            android:valueTo="1000"
+            android:valueType="floatType" >
+        </objectAnimator>
+    </set>
+
+    <!-- Y 放大 -->
+    <set android:ordering="sequentially" >
+        <objectAnimator
+            android:duration="400"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+            android:propertyName="scaleY"
+            android:valueFrom="0.0"
+            android:valueTo="1.015"
+            android:valueType="floatType" >
+        </objectAnimator>
+        <objectAnimator
+            android:duration="80"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+            android:propertyName="scaleY"
+            android:valueFrom="1.015"
+            android:valueTo="1.0"
+            android:valueType="floatType" >
+        </objectAnimator>
+    </set>
+
+    <!-- X 放大 -->
+    <set android:ordering="sequentially" >
+        <objectAnimator
+            android:duration="300"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+            android:propertyName="scaleX"
+            android:valueFrom="0.0"
+            android:valueTo="1.015"
+            android:valueType="floatType" >
+        </objectAnimator>
+        <objectAnimator
+            android:duration="80"
+            android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+            android:propertyName="scaleX"
+            android:valueFrom="1.015"
+            android:valueTo="1.0"
+            android:valueType="floatType" >
+        </objectAnimator>
+    </set>
+
+</set>

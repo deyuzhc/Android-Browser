@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/back_bt"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.0" />
+
+    <LinearLayout
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_gravity="right"
+        android:background="@android:drawable/dialog_holo_light_frame"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/menu_top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/set_forward"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_forward"
+                android:gravity="left|center_vertical" />
+
+            <Button
+                android:id="@+id/set_mark"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_mark"
+                android:gravity="left|center_vertical" />
+
+            <Button
+                android:id="@+id/set_joke"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_joke"
+                android:gravity="left|center_vertical" />
+
+            <Button
+                android:id="@+id/set_refresh"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_refresh"
+                android:gravity="left|center_vertical" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/function_newtab"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="10dp"
+            android:text="@string/set_newtab"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/function_snewtab"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="10dp"
+            android:text="@string/set_snewtab"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/function_mark"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="10dp"
+            android:text="@string/set_mark"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/function_history"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="10dp"
+            android:text="@string/set_history"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/function_desktop"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:gravity="left|center_vertical"
+                android:paddingLeft="10dp"
+                android:text="@string/set_tab"
+                android:textSize="16sp" />
+
+            <CheckBox
+                style="?android:attr/checkboxStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:paddingRight="15dp" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/function_set"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="10dp"
+            android:text="@string/set_set"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/function_feedback"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="10dp"
+            android:text="@string/set_feedback"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+
+</RelativeLayout>

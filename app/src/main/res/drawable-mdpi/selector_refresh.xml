@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/slategray">
+
+    <item>
+        <selector>
+            <item
+                android:drawable="@drawable/srefresh"
+                android:state_pressed="true"></item>
+        </selector>
+    </item>
+
+
+    <item>
+        <selector>
+            <item
+                android:drawable="@drawable/refresh"
+                android:state_enabled="true"></item>
+        </selector>
+    </item>
+</ripple>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="CutPasteId" severity="ignore" />
+    <issue id="HandlerLeak" severity="ignore" />
+    <issue id="InflateParams" severity="ignore" />
+    <issue id="NewApi" severity="ignore" />
+    <issue id="ResourceAsColor" severity="ignore" />
+    <issue id="SetJavaScriptEnabled" severity="ignore">
+        <ignore path="src/com/deyuz/viewer/MainActivity.java" />
+    </issue>
+    <issue id="ShowToast" severity="ignore" />
+</lint>
